@@ -29,8 +29,4 @@ Shoulder surfing is a type of social engineering technique used to obtain inform
 </div>
 <br>
 
-[![Made with Django](https://img.shields.io/badge/Made%20with-Django-092E20?style=for-the-badge&logo=Django&logoColor=092E20)](https://www.djangoproject.com/)
-[![Made with Bootstrap](https://img.shields.io/badge/UI%20build%20with-Bootstrap-purple?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
-
-<br>
 
