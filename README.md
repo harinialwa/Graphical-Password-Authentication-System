@@ -34,4 +34,3 @@ Shoulder surfing is a type of social engineering technique used to obtain inform
 
 <br>
 
-Cooked with <span style="color: #e25555;">&#9829;</span> by [WilsonVD](https://github.com/Wilson0406), [RishankP](https://github.com/RishankPratik) & [AnanthuM](https://github.com/Ananthu18)
